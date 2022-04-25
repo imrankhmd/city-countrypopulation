@@ -1,0 +1,42 @@
+{
+  "country_list": [
+    {
+      "id": 1,
+      "name": "india"
+    },
+    {
+      "id": 2,
+      "name": "pakistan"
+    },
+    {
+      "id": 3,
+      "name": "nepal"
+    },
+    {
+      "id": 4,
+      "name": "bhutan"
+    },
+    {
+      "id": 5,
+      "name": "bangladesh"
+    },
+    {
+      "name": "china",
+      "id": 6
+    }
+  ],
+  "city-list": [
+    {
+      "name": "delhi",
+      "country": "india",
+      "population": "85258",
+      "id": 5
+    },
+    {
+      "name": "mumbai",
+      "country": "india",
+      "population": "789",
+      "id": 6
+    }
+  ]
+}
